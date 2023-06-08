@@ -1,6 +1,9 @@
 name: Update ChinaList-For-AdguardHome
 
-on: workflow_dispatch
+on:
+   workflow_dispatch:
+   schedule:
+     - cron: '0 4 * * *'
 
 jobs:
   update_dns_list:
