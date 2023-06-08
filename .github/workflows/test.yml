@@ -1,0 +1,23 @@
+name: Update ChinaList-For-AdguardHome
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # 每天晚上8点（UTC时间）
+
+jobs:
+  update_dns_list:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Run script
+      run: |
+        chmod +x script.sh
+        ./script.sh
+    - name: Push changes
+      run: |
+        git config --global user.email "${USER_EMAIL}"
+        git config --global user.name "${USER_NAME}"
+        git add ChinaList.txt
+        git commit -m "Update ChinaList.txt"
+        git push
