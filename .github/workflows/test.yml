@@ -13,11 +13,5 @@ jobs:
         chmod +x script.sh
         ./script.sh
     - name: Push changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --global user.email "${{ secrets.USER_EMAIL }}"
-        git config --global user.name "${{ secrets.USER_NAME }}"
-        git add ChinaList.txt
-        git commit -m "Update ChinaList.txt"
-        git push https://$GITHUB_TOKEN@github.com/${{ secrets.USER_NAME }}/ChinaList-For-AdguardHome.git HEAD:main
+        git push https://$GITHUB_TOKEN@github.com/${{ secrets.USER_NAME }}/ChinaList-For-AdguardHome.git HEAD
