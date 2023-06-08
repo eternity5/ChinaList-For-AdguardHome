@@ -1,8 +1,6 @@
 name: Update ChinaList-For-AdguardHome
 
-on:
-  schedule:
-    - cron: '0 4 * * *' # 每天晚上8点（UTC时间）
+on: workflow_dispatch
 
 jobs:
   update_dns_list:
