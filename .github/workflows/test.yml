@@ -20,4 +20,4 @@ jobs:
         git config --global user.name "${{ secrets.USER_NAME }}"
         git add ChinaList.txt
         git commit -m "Update ChinaList.txt"
-        git push https://$GITHUB_TOKEN@github.com/${{ secrets.USER_NAME }}/ChinaList-For-AdguardHome.git HEAD:master
+        git push https://$GITHUB_TOKEN@github.com/${{ secrets.USER_NAME }}/ChinaList-For-AdguardHome.git HEAD:main
