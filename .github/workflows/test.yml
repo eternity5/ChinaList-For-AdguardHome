@@ -14,8 +14,8 @@ jobs:
         ./script.sh
     - name: Push changes
       run: |
-        git config --global user.email "${{ secrets.SECRET_NAME }}"
-        git config --global user.name "${{ secrets.USER_NAME }}"
+        git config --global user.email ${{ secrets.SECRET_NAME }}
+        git config --global user.name ${{ secrets.USER_NAME }}
         git add ChinaList.txt
         git commit -m "Update ChinaList.txt"
         git push
