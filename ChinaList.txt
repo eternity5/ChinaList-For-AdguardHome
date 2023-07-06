@@ -7313,6 +7313,7 @@
 [/adxvip.com/]https://dns.alidns.com/dns-query
 [/adxwork.com/]https://dns.alidns.com/dns-query
 [/adyounger.com/]https://dns.alidns.com/dns-query
+[/adysimg.com/]https://dns.alidns.com/dns-query
 [/adyun.com/]https://dns.alidns.com/dns-query
 [/adzar-energy.com/]https://dns.alidns.com/dns-query
 [/adzh.com/]https://dns.alidns.com/dns-query
@@ -8801,7 +8802,6 @@
 [/arkread.com/]https://dns.alidns.com/dns-query
 [/arkteam.net/]https://dns.alidns.com/dns-query
 [/arliki.com/]https://dns.alidns.com/dns-query
-[/arm001.com/]https://dns.alidns.com/dns-query
 [/arm9.net/]https://dns.alidns.com/dns-query
 [/arm9home.net/]https://dns.alidns.com/dns-query
 [/armbbs.net/]https://dns.alidns.com/dns-query
@@ -17741,7 +17741,6 @@
 [/dgwtrl.com/]https://dns.alidns.com/dns-query
 [/dgxbjg.com/]https://dns.alidns.com/dns-query
 [/dgxinde.net/]https://dns.alidns.com/dns-query
-[/dgxinyuds.com/]https://dns.alidns.com/dns-query
 [/dgxue.com/]https://dns.alidns.com/dns-query
 [/dgyejia.com/]https://dns.alidns.com/dns-query
 [/dgygpx.com/]https://dns.alidns.com/dns-query
@@ -26134,7 +26133,6 @@
 [/hijoys.com/]https://dns.alidns.com/dns-query
 [/hikailink.com/]https://dns.alidns.com/dns-query
 [/hikcreate.com/]https://dns.alidns.com/dns-query
-[/hikedj.com/]https://dns.alidns.com/dns-query
 [/hiklife.com/]https://dns.alidns.com/dns-query
 [/hikoon.com/]https://dns.alidns.com/dns-query
 [/hikops.com/]https://dns.alidns.com/dns-query
@@ -48373,6 +48371,7 @@
 [/ssdata.com/]https://dns.alidns.com/dns-query
 [/ssdax.com/]https://dns.alidns.com/dns-query
 [/ssdfans.com/]https://dns.alidns.com/dns-query
+[/ssdzg.com/]https://dns.alidns.com/dns-query
 [/sseinfo.com/]https://dns.alidns.com/dns-query
 [/ssf.cc/]https://dns.alidns.com/dns-query
 [/ssfiction.com/]https://dns.alidns.com/dns-query
@@ -56814,6 +56813,7 @@
 [/xiaohulu.com/]https://dns.alidns.com/dns-query
 [/xiaohuochai.cc/]https://dns.alidns.com/dns-query
 [/xiaohuochai.site/]https://dns.alidns.com/dns-query
+[/xiaohus.com/]https://dns.alidns.com/dns-query
 [/xiaohuwl.com/]https://dns.alidns.com/dns-query
 [/xiaoice.com/]https://dns.alidns.com/dns-query
 [/xiaoj.com/]https://dns.alidns.com/dns-query
@@ -58734,7 +58734,6 @@
 [/yanglong.pro/]https://dns.alidns.com/dns-query
 [/yangluojob.com/]https://dns.alidns.com/dns-query
 [/yangmao.info/]https://dns.alidns.com/dns-query
-[/yangmaodang.org/]https://dns.alidns.com/dns-query
 [/yangmaohao.net/]https://dns.alidns.com/dns-query
 [/yangner.com/]https://dns.alidns.com/dns-query
 [/yangqianguan.com/]https://dns.alidns.com/dns-query
