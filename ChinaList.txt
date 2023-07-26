@@ -313,7 +313,6 @@
 [/0527ys.com/]https://dns.alidns.com/dns-query
 [/0527zz.com/]https://dns.alidns.com/dns-query
 [/052yx.com/]https://dns.alidns.com/dns-query
-[/0531-jinan.com/]https://dns.alidns.com/dns-query
 [/0531.com/]https://dns.alidns.com/dns-query
 [/053135.com/]https://dns.alidns.com/dns-query
 [/0531jb.com/]https://dns.alidns.com/dns-query
@@ -1415,7 +1414,6 @@
 [/1772.site/]https://dns.alidns.com/dns-query
 [/1773.com/]https://dns.alidns.com/dns-query
 [/1778.com/]https://dns.alidns.com/dns-query
-[/177817.com/]https://dns.alidns.com/dns-query
 [/178.com/]https://dns.alidns.com/dns-query
 [/178198.com/]https://dns.alidns.com/dns-query
 [/178448.com/]https://dns.alidns.com/dns-query
@@ -9906,7 +9904,6 @@
 [/bb-game.com/]https://dns.alidns.com/dns-query
 [/bb-pco.com/]https://dns.alidns.com/dns-query
 [/bb06.com/]https://dns.alidns.com/dns-query
-[/bb179.com/]https://dns.alidns.com/dns-query
 [/bb778899bb.com/]https://dns.alidns.com/dns-query
 [/bb8gk.com/]https://dns.alidns.com/dns-query
 [/bbam58.com/]https://dns.alidns.com/dns-query
@@ -13322,7 +13319,6 @@
 [/chazhaokan.com/]https://dns.alidns.com/dns-query
 [/chazhengla.com/]https://dns.alidns.com/dns-query
 [/chazidian.com/]https://dns.alidns.com/dns-query
-[/chazishop.com/]https://dns.alidns.com/dns-query
 [/chaziyu.com/]https://dns.alidns.com/dns-query
 [/chazuo.com/]https://dns.alidns.com/dns-query
 [/chazuo.net/]https://dns.alidns.com/dns-query
@@ -14641,6 +14637,7 @@
 [/cimamotor.com/]https://dns.alidns.com/dns-query
 [/cimc.com/]https://dns.alidns.com/dns-query
 [/cimen.club/]https://dns.alidns.com/dns-query
+[/cimictiles.com/]https://dns.alidns.com/dns-query
 [/ciming-bj.com/]https://dns.alidns.com/dns-query
 [/ciming-shop.com/]https://dns.alidns.com/dns-query
 [/ciming.com/]https://dns.alidns.com/dns-query
@@ -15315,7 +15312,6 @@
 [/cnhwjt.com/]https://dns.alidns.com/dns-query
 [/cnhzz.com/]https://dns.alidns.com/dns-query
 [/cniao5.com/]https://dns.alidns.com/dns-query
-[/cniao8.com/]https://dns.alidns.com/dns-query
 [/cnibx.com/]https://dns.alidns.com/dns-query
 [/cnicif.com/]https://dns.alidns.com/dns-query
 [/cnidea.net/]https://dns.alidns.com/dns-query
@@ -19409,6 +19405,7 @@
 [/dytt7899.com/]https://dns.alidns.com/dns-query
 [/dytt8.com/]https://dns.alidns.com/dns-query
 [/dytt8.net/]https://dns.alidns.com/dns-query
+[/dyxf365.com/]https://dns.alidns.com/dns-query
 [/dyxldjy.com/]https://dns.alidns.com/dns-query
 [/dyxsdwm.com/]https://dns.alidns.com/dns-query
 [/dyxtw.com/]https://dns.alidns.com/dns-query
@@ -21666,7 +21663,6 @@
 [/fibodata.com/]https://dns.alidns.com/dns-query
 [/fibrlink.net/]https://dns.alidns.com/dns-query
 [/ficochina.net/]https://dns.alidns.com/dns-query
-[/fidding.me/]https://dns.alidns.com/dns-query
 [/fiehff.com/]https://dns.alidns.com/dns-query
 [/fieldschina.com/]https://dns.alidns.com/dns-query
 [/fifo.cc/]https://dns.alidns.com/dns-query
@@ -27493,6 +27489,7 @@
 [/huaqidigital.com/]https://dns.alidns.com/dns-query
 [/huaqin.com/]https://dns.alidns.com/dns-query
 [/huaqinchi.com/]https://dns.alidns.com/dns-query
+[/huaqiu.com/]https://dns.alidns.com/dns-query
 [/huaranhunsha.com/]https://dns.alidns.com/dns-query
 [/huaraytech.com/]https://dns.alidns.com/dns-query
 [/huarenyizhan.com/]https://dns.alidns.com/dns-query
@@ -27666,7 +27663,6 @@
 [/hui712.com/]https://dns.alidns.com/dns-query
 [/hui800.com/]https://dns.alidns.com/dns-query
 [/hui800.net/]https://dns.alidns.com/dns-query
-[/huianchougy.com/]https://dns.alidns.com/dns-query
 [/huians.com/]https://dns.alidns.com/dns-query
 [/huibo.com/]https://dns.alidns.com/dns-query
 [/huicaishui.net/]https://dns.alidns.com/dns-query
@@ -29026,6 +29022,7 @@
 [/igreatdream.com/]https://dns.alidns.com/dns-query
 [/igtm-a101.com/]https://dns.alidns.com/dns-query
 [/igtm-b101.com/]https://dns.alidns.com/dns-query
+[/igtm-meeting-tencent.com/]https://dns.alidns.com/dns-query
 [/iguanyu.com/]https://dns.alidns.com/dns-query
 [/iguazutraffic.xyz/]https://dns.alidns.com/dns-query
 [/iguder.com/]https://dns.alidns.com/dns-query
@@ -29220,6 +29217,7 @@
 [/ikunac.com/]https://dns.alidns.com/dns-query
 [/ikx.me/]https://dns.alidns.com/dns-query
 [/ikyy.cc/]https://dns.alidns.com/dns-query
+[/ikzybf.com/]https://dns.alidns.com/dns-query
 [/il8r.com/]https://dns.alidns.com/dns-query
 [/ilab-x.com/]https://dns.alidns.com/dns-query
 [/ilabilab.com/]https://dns.alidns.com/dns-query
@@ -34864,7 +34862,6 @@
 [/ledianyun.com/]https://dns.alidns.com/dns-query
 [/lediaocha.com/]https://dns.alidns.com/dns-query
 [/ledo.com/]https://dns.alidns.com/dns-query
-[/ledole.com/]https://dns.alidns.com/dns-query
 [/ledouwan.com/]https://dns.alidns.com/dns-query
 [/ledouya.com/]https://dns.alidns.com/dns-query
 [/ledsdk.com/]https://dns.alidns.com/dns-query
@@ -35138,7 +35135,6 @@
 [/lezhi.com/]https://dns.alidns.com/dns-query
 [/lezhi99.com/]https://dns.alidns.com/dns-query
 [/lezhibo.com/]https://dns.alidns.com/dns-query
-[/lezhieducation.com/]https://dns.alidns.com/dns-query
 [/lezhiot.com/]https://dns.alidns.com/dns-query
 [/lezhiyun.com/]https://dns.alidns.com/dns-query
 [/lezhuan.com/]https://dns.alidns.com/dns-query
@@ -35247,6 +35243,7 @@
 [/liangyadong.com/]https://dns.alidns.com/dns-query
 [/liangyi.com/]https://dns.alidns.com/dns-query
 [/liangzhishu.com/]https://dns.alidns.com/dns-query
+[/liangzuji.com/]https://dns.alidns.com/dns-query
 [/lianhaikeji.com/]https://dns.alidns.com/dns-query
 [/lianhanghao.com/]https://dns.alidns.com/dns-query
 [/lianhecang.com/]https://dns.alidns.com/dns-query
@@ -38786,6 +38783,7 @@
 [/moolsun.com/]https://dns.alidns.com/dns-query
 [/moomoo.com/]https://dns.alidns.com/dns-query
 [/moonbasa.com/]https://dns.alidns.com/dns-query
+[/moonbitlang.com/]https://dns.alidns.com/dns-query
 [/mooncell.wiki/]https://dns.alidns.com/dns-query
 [/moonfly.net/]https://dns.alidns.com/dns-query
 [/mooninbox.com/]https://dns.alidns.com/dns-query
@@ -41275,7 +41273,6 @@
 [/ottffss.net/]https://dns.alidns.com/dns-query
 [/ottshopping.net/]https://dns.alidns.com/dns-query
 [/otype.com/]https://dns.alidns.com/dns-query
-[/otzyx.com/]https://dns.alidns.com/dns-query
 [/ou99.com/]https://dns.alidns.com/dns-query
 [/ouapi.com/]https://dns.alidns.com/dns-query
 [/oubk.com/]https://dns.alidns.com/dns-query
@@ -43022,7 +43019,6 @@
 [/qd-metro.com/]https://dns.alidns.com/dns-query
 [/qd-weimob.com/]https://dns.alidns.com/dns-query
 [/qd256.com/]https://dns.alidns.com/dns-query
-[/qd315.net/]https://dns.alidns.com/dns-query
 [/qdac.cc/]https://dns.alidns.com/dns-query
 [/qdaeon.com/]https://dns.alidns.com/dns-query
 [/qdaiduo.com/]https://dns.alidns.com/dns-query
@@ -45728,7 +45724,6 @@
 [/sasseur.com/]https://dns.alidns.com/dns-query
 [/satrip.com/]https://dns.alidns.com/dns-query
 [/saturnbird.com/]https://dns.alidns.com/dns-query
-[/saveen.com/]https://dns.alidns.com/dns-query
 [/savokiss.com/]https://dns.alidns.com/dns-query
 [/savouer.com/]https://dns.alidns.com/dns-query
 [/sawenow.com/]https://dns.alidns.com/dns-query
@@ -47810,7 +47805,6 @@
 [/sishuok.com/]https://dns.alidns.com/dns-query
 [/sishuxuefu.com/]https://dns.alidns.com/dns-query
 [/sisijiyi.com/]https://dns.alidns.com/dns-query
-[/sisijp.com/]https://dns.alidns.com/dns-query
 [/sisjava.com/]https://dns.alidns.com/dns-query
 [/sisp-china.com/]https://dns.alidns.com/dns-query
 [/sistemsol.com/]https://dns.alidns.com/dns-query
@@ -54897,7 +54891,6 @@
 [/weplus.com/]https://dns.alidns.com/dns-query
 [/weplus.me/]https://dns.alidns.com/dns-query
 [/werewolf.online/]https://dns.alidns.com/dns-query
-[/wesafesoft.com/]https://dns.alidns.com/dns-query
 [/wesai.com/]https://dns.alidns.com/dns-query
 [/wesane.com/]https://dns.alidns.com/dns-query
 [/wesdom.me/]https://dns.alidns.com/dns-query
@@ -55273,7 +55266,6 @@
 [/whyungu.com/]https://dns.alidns.com/dns-query
 [/whyyy.com/]https://dns.alidns.com/dns-query
 [/whzb.com/]https://dns.alidns.com/dns-query
-[/whzblawson.com/]https://dns.alidns.com/dns-query
 [/whzbtb.com/]https://dns.alidns.com/dns-query
 [/whzc2008.com/]https://dns.alidns.com/dns-query
 [/whzdyy.com/]https://dns.alidns.com/dns-query
@@ -55301,7 +55293,6 @@
 [/widuu.com/]https://dns.alidns.com/dns-query
 [/wifenxiao.com/]https://dns.alidns.com/dns-query
 [/wifi.com/]https://dns.alidns.com/dns-query
-[/wifi03.com/]https://dns.alidns.com/dns-query
 [/wifi0917.com/]https://dns.alidns.com/dns-query
 [/wifi188.com/]https://dns.alidns.com/dns-query
 [/wifi33.com/]https://dns.alidns.com/dns-query
@@ -57385,7 +57376,6 @@
 [/xiaowang.net/]https://dns.alidns.com/dns-query
 [/xiaowangshen.com/]https://dns.alidns.com/dns-query
 [/xiaowangyun.com/]https://dns.alidns.com/dns-query
-[/xiaowanzhou.net/]https://dns.alidns.com/dns-query
 [/xiaowazi.com/]https://dns.alidns.com/dns-query
 [/xiaoweigod.com/]https://dns.alidns.com/dns-query
 [/xiaoweirobot.com/]https://dns.alidns.com/dns-query
@@ -59122,7 +59112,6 @@
 [/yameijie.com/]https://dns.alidns.com/dns-query
 [/yameisj.com/]https://dns.alidns.com/dns-query
 [/yamibo.com/]https://dns.alidns.com/dns-query
-[/yan-wei.net/]https://dns.alidns.com/dns-query
 [/yanbinghu.com/]https://dns.alidns.com/dns-query
 [/yanbm.com/]https://dns.alidns.com/dns-query
 [/yanboguoji.com/]https://dns.alidns.com/dns-query
@@ -59974,6 +59963,7 @@
 [/yingpaigame.com/]https://dns.alidns.com/dns-query
 [/yingshe.com/]https://dns.alidns.com/dns-query
 [/yingsheng.com/]https://dns.alidns.com/dns-query
+[/yingshevip.com/]https://dns.alidns.com/dns-query
 [/yingshixiaoshuo.com/]https://dns.alidns.com/dns-query
 [/yingshiyou.com/]https://dns.alidns.com/dns-query
 [/yingsoo.com/]https://dns.alidns.com/dns-query
@@ -61660,7 +61650,6 @@
 [/yuxiaor.com/]https://dns.alidns.com/dns-query
 [/yuxinews.com/]https://dns.alidns.com/dns-query
 [/yuxingqiu.com/]https://dns.alidns.com/dns-query
-[/yuxinzhilian.com/]https://dns.alidns.com/dns-query
 [/yuxip.com/]https://dns.alidns.com/dns-query
 [/yuxitech.com/]https://dns.alidns.com/dns-query
 [/yuxungs.com/]https://dns.alidns.com/dns-query
