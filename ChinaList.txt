@@ -4496,7 +4496,6 @@
 [/57tuan.com/]https://dns.alidns.com/dns-query
 [/57us.com/]https://dns.alidns.com/dns-query
 [/57uu.com/]https://dns.alidns.com/dns-query
-[/57wo.com/]https://dns.alidns.com/dns-query
 [/57yy.site/]https://dns.alidns.com/dns-query
 [/57zhe.com/]https://dns.alidns.com/dns-query
 [/58.com/]https://dns.alidns.com/dns-query
@@ -6937,7 +6936,6 @@
 [/abc360.com/]https://dns.alidns.com/dns-query
 [/abc369.net/]https://dns.alidns.com/dns-query
 [/abcache.com/]https://dns.alidns.com/dns-query
-[/abcd5.com/]https://dns.alidns.com/dns-query
 [/abcdao.com/]https://dns.alidns.com/dns-query
 [/abcdocker.com/]https://dns.alidns.com/dns-query
 [/abcdv.net/]https://dns.alidns.com/dns-query
@@ -11538,7 +11536,6 @@
 [/bulaoge.net/]https://dns.alidns.com/dns-query
 [/bulejie.com/]https://dns.alidns.com/dns-query
 [/bullcome.com/]https://dns.alidns.com/dns-query
-[/bullmind.com/]https://dns.alidns.com/dns-query
 [/buluanmai.com/]https://dns.alidns.com/dns-query
 [/buluo007.com/]https://dns.alidns.com/dns-query
 [/bumimi.com/]https://dns.alidns.com/dns-query
@@ -17734,7 +17731,6 @@
 [/dianmiaoshou.com/]https://dns.alidns.com/dns-query
 [/diannaoban.com/]https://dns.alidns.com/dns-query
 [/diannaodian.com/]https://dns.alidns.com/dns-query
-[/diannaokepu.com/]https://dns.alidns.com/dns-query
 [/diannaoxianka.com/]https://dns.alidns.com/dns-query
 [/dianopen.com/]https://dns.alidns.com/dns-query
 [/dianou.com/]https://dns.alidns.com/dns-query
@@ -21341,7 +21337,6 @@
 [/fgo-teamup.com/]https://dns.alidns.com/dns-query
 [/fgo.wiki/]https://dns.alidns.com/dns-query
 [/fgowiki.com/]https://dns.alidns.com/dns-query
-[/fgrgrw002.xyz/]https://dns.alidns.com/dns-query
 [/fgtymk.com/]https://dns.alidns.com/dns-query
 [/fgvisa.net/]https://dns.alidns.com/dns-query
 [/fh1551.com/]https://dns.alidns.com/dns-query
@@ -36621,7 +36616,6 @@
 [/maitianquan.com/]https://dns.alidns.com/dns-query
 [/maitix.com/]https://dns.alidns.com/dns-query
 [/maitix.net/]https://dns.alidns.com/dns-query
-[/maitoufa.org/]https://dns.alidns.com/dns-query
 [/maitu.cc/]https://dns.alidns.com/dns-query
 [/maituan.com/]https://dns.alidns.com/dns-query
 [/maitube.com/]https://dns.alidns.com/dns-query
@@ -41767,7 +41761,6 @@
 [/plalzhang.com/]https://dns.alidns.com/dns-query
 [/planckled.com/]https://dns.alidns.com/dns-query
 [/planetmeican.com/]https://dns.alidns.com/dns-query
-[/planetradioonline.com/]https://dns.alidns.com/dns-query
 [/plantextra.com/]https://dns.alidns.com/dns-query
 [/plantname.xyz/]https://dns.alidns.com/dns-query
 [/plantower.com/]https://dns.alidns.com/dns-query
