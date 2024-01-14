@@ -4227,6 +4227,7 @@
 [/54job.com/]https://dns.alidns.com/dns-query
 [/54kefu.net/]https://dns.alidns.com/dns-query
 [/54lol.com/]https://dns.alidns.com/dns-query
+[/54maimai.com/]https://dns.alidns.com/dns-query
 [/54md.com/]https://dns.alidns.com/dns-query
 [/54op.com/]https://dns.alidns.com/dns-query
 [/54pictu.com/]https://dns.alidns.com/dns-query
@@ -8872,7 +8873,6 @@
 [/awspal.com/]https://dns.alidns.com/dns-query
 [/awstar.net/]https://dns.alidns.com/dns-query
 [/awtmt.com/]https://dns.alidns.com/dns-query
-[/awu3.net/]https://dns.alidns.com/dns-query
 [/awuming.com/]https://dns.alidns.com/dns-query
 [/awx1.com/]https://dns.alidns.com/dns-query
 #[/ax1x.com/]https://dns.alidns.com/dns-query # Disabled: https://github.com/felixonmars/dnsmasq-china-list/issues/391
@@ -27593,6 +27593,7 @@
 [/iadmore.com/]https://dns.alidns.com/dns-query
 [/iaeac.org/]https://dns.alidns.com/dns-query
 [/iaikx.com/]https://dns.alidns.com/dns-query
+[/iaixue.com/]https://dns.alidns.com/dns-query
 [/ialicdn.com/]https://dns.alidns.com/dns-query
 [/ialloc.com/]https://dns.alidns.com/dns-query
 [/iambanban.com/]https://dns.alidns.com/dns-query
@@ -34986,7 +34987,6 @@
 [/lnamphp.com/]https://dns.alidns.com/dns-query
 [/lncldapi.com/]https://dns.alidns.com/dns-query
 [/lncnw.com/]https://dns.alidns.com/dns-query
-[/lndao.com/]https://dns.alidns.com/dns-query
 [/lndhdx.com/]https://dns.alidns.com/dns-query
 [/lndwkj.com/]https://dns.alidns.com/dns-query
 [/lnemci.com/]https://dns.alidns.com/dns-query
@@ -49746,6 +49746,7 @@
 [/tlightsky.com/]https://dns.alidns.com/dns-query
 [/tlinx.com/]https://dns.alidns.com/dns-query
 [/tlivecdn.com/]https://dns.alidns.com/dns-query
+[/tlivecdnv2.com/]https://dns.alidns.com/dns-query
 [/tlivemcdn.com/]https://dns.alidns.com/dns-query
 [/tliveplay.com/]https://dns.alidns.com/dns-query
 [/tlivepush.com/]https://dns.alidns.com/dns-query
