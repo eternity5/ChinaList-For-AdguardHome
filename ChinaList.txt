@@ -4417,6 +4417,7 @@
 [/52372.com/]https://dns.alidns.com/dns-query
 [/523touzi.com/]https://dns.alidns.com/dns-query
 [/52419.net/]https://dns.alidns.com/dns-query
+[/524399game.com/]https://dns.alidns.com/dns-query
 [/52488.com/]https://dns.alidns.com/dns-query
 [/525.life/]https://dns.alidns.com/dns-query
 [/5251.net/]https://dns.alidns.com/dns-query
@@ -16406,6 +16407,7 @@
 [/cloud-links.net/]https://dns.alidns.com/dns-query
 [/cloud-neofussvr.sslcs.cdngc.net/]https://dns.alidns.com/dns-query
 [/cloud-rtc.com/]https://dns.alidns.com/dns-query
+[/cloud-rtc.net/]https://dns.alidns.com/dns-query
 [/cloud-scdn-ns.net/]https://dns.alidns.com/dns-query
 [/cloud-scdn-ns.tech/]https://dns.alidns.com/dns-query
 [/cloud-scdn.com/]https://dns.alidns.com/dns-query
@@ -28460,7 +28462,6 @@
 [/haoyouyinxiang.com/]https://dns.alidns.com/dns-query
 [/haoyuanfurniture.com/]https://dns.alidns.com/dns-query
 [/haoyuanxiao.com/]https://dns.alidns.com/dns-query
-[/haoyue.asia/]https://dns.alidns.com/dns-query
 [/haoyue28.com/]https://dns.alidns.com/dns-query
 [/haoyuepu.com/]https://dns.alidns.com/dns-query
 [/haoyun13.com/]https://dns.alidns.com/dns-query
@@ -41806,6 +41807,7 @@
 [/magicdata.io/]https://dns.alidns.com/dns-query
 [/magich5page.com/]https://dns.alidns.com/dns-query
 [/magicleaders.com/]https://dns.alidns.com/dns-query
+[/magicneko.com/]https://dns.alidns.com/dns-query
 [/magicnetmall.com/]https://dns.alidns.com/dns-query
 [/magicspinning.com/]https://dns.alidns.com/dns-query
 [/magicwatchface.com/]https://dns.alidns.com/dns-query
@@ -68484,7 +68486,6 @@
 [/ym01.tech/]https://dns.alidns.com/dns-query
 [/ym1998.com/]https://dns.alidns.com/dns-query
 [/ym23.com/]https://dns.alidns.com/dns-query
-[/ym68.cc/]https://dns.alidns.com/dns-query
 [/ymadly.com/]https://dns.alidns.com/dns-query
 [/ymadx.com/]https://dns.alidns.com/dns-query
 [/ymailcampaign.com/]https://dns.alidns.com/dns-query
