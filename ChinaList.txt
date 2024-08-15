@@ -5059,6 +5059,7 @@
 [/54seaman.com/]https://dns.alidns.com/dns-query
 [/54sh.com/]https://dns.alidns.com/dns-query
 [/54traveler.com/]https://dns.alidns.com/dns-query
+[/54tup.com/]https://dns.alidns.com/dns-query
 [/54tusi.com/]https://dns.alidns.com/dns-query
 [/54watch.com/]https://dns.alidns.com/dns-query
 [/54xiaoshuo.com/]https://dns.alidns.com/dns-query
@@ -38721,6 +38722,7 @@
 [/ictcsr.org/]https://dns.alidns.com/dns-query
 [/ictdns.fun/]https://dns.alidns.com/dns-query
 [/ictdns.store/]https://dns.alidns.com/dns-query
+[/ictdns.tech/]https://dns.alidns.com/dns-query
 [/ictehi.com/]https://dns.alidns.com/dns-query
 [/ictest8.com/]https://dns.alidns.com/dns-query
 [/icthb.com/]https://dns.alidns.com/dns-query
@@ -81177,6 +81179,7 @@
 [/youcaiyun.com/]https://dns.alidns.com/dns-query
 [/youcaizhushou.com/]https://dns.alidns.com/dns-query
 [/youcan-agritech.com/]https://dns.alidns.com/dns-query
+[/youcareyk.com/]https://dns.alidns.com/dns-query
 [/youcash.com/]https://dns.alidns.com/dns-query
 [/youcha.net/]https://dns.alidns.com/dns-query
 [/youche.com/]https://dns.alidns.com/dns-query
