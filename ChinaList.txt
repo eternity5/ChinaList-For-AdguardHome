@@ -2685,6 +2685,7 @@
 [/1zhe.com/]https://dns.alidns.com/dns-query
 [/1zhengji.com/]https://dns.alidns.com/dns-query
 [/1zhixue.com/]https://dns.alidns.com/dns-query
+[/1zidc.com/]https://dns.alidns.com/dns-query
 [/1zj.com/]https://dns.alidns.com/dns-query
 [/1zjob.com/]https://dns.alidns.com/dns-query
 [/1zu.com/]https://dns.alidns.com/dns-query
@@ -16641,6 +16642,7 @@
 [/bktsj.com/]https://dns.alidns.com/dns-query
 [/bkvps.com/]https://dns.alidns.com/dns-query
 [/bkweek.com/]https://dns.alidns.com/dns-query
+[/bkwsq.com/]https://dns.alidns.com/dns-query
 [/bkzzy.com/]https://dns.alidns.com/dns-query
 [/bl.com/]https://dns.alidns.com/dns-query
 [/bl0757.com/]https://dns.alidns.com/dns-query
@@ -18535,6 +18537,7 @@
 [/cangzhouhd.com/]https://dns.alidns.com/dns-query
 [/canhighcenter.com/]https://dns.alidns.com/dns-query
 [/canhot.net/]https://dns.alidns.com/dns-query
+[/canhui.xyz/]https://dns.alidns.com/dns-query
 [/caniculab.com/]https://dns.alidns.com/dns-query
 [/canidc.com/]https://dns.alidns.com/dns-query
 [/canjio.com/]https://dns.alidns.com/dns-query
@@ -75948,6 +75951,7 @@
 [/redisfans.com/]https://dns.alidns.com/dns-query
 [/redmagic.com/]https://dns.alidns.com/dns-query
 [/redmart.com/]https://dns.alidns.com/dns-query
+[/redmid.com/]https://dns.alidns.com/dns-query
 [/redmou.com/]https://dns.alidns.com/dns-query
 [/rednetdns.com/]https://dns.alidns.com/dns-query
 [/rednote.com/]https://dns.alidns.com/dns-query
@@ -92394,6 +92398,7 @@
 [/vxiaocheng.com/]https://dns.alidns.com/dns-query
 [/vxinyou.com/]https://dns.alidns.com/dns-query
 [/vxixi.com/]https://dns.alidns.com/dns-query
+[/vxni.ink/]https://dns.alidns.com/dns-query
 [/vxo7tu.com/]https://dns.alidns.com/dns-query
 [/vxocok3197.vip/]https://dns.alidns.com/dns-query
 [/vxsnk.com/]https://dns.alidns.com/dns-query
